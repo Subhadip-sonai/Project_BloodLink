@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">BloodLink</string>
+    <string name="enter_your_10_digit_mobile_number">Enter your 10 digit mobile number</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="my_number">hint:-8436526828</string>
+    <string name="enter_otp_here">Enter OTP here</string>
+    <string name="submit">Submit</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="don_t_get_otp">Do not get OTP?</string>
+    <string name="verify">Verify</string>
+    <string name="log_out">Log Out</string>
+    <string name="welcome">WELCOME</string>
+
+
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+
+    <!--    donor registation-->
+    <string-array name="blood_groups">
+        <item>Select Blood Group</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Transgender</item>
+    </string-array>
+
+    <string-array name="govt_id">
+        <item>Select ID Card</item>
+        <item>Aadhaar card</item>
+        <item>Election Card</item>
+        <item>Passport</item>
+        <item>Job Id</item>
+        <item>College Id</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--    array list for find donor redious-->
+    <string-array name="donor_redious">
+        <item>5km</item>
+        <item>10km</item>
+        <item>15km</item>
+        <item>20km</item>
+    </string-array>
+
+</resources>
