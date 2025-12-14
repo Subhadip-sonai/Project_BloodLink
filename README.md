@@ -9,14 +9,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Login Screen | Donor Dashboard | Find Donor | Agency Portal |
-|:---:|:---:|:---:|:---:|
-| <img src="screenshots/login.png" width="200"/> | <img src="screenshots/dashboard.png" width="200"/> | <img src="screenshots/map.png" width="200"/> | <img src="screenshots/agency.png" width="200"/> |
-
----
-
 ## ✨ Features
 
 ### For Donors
